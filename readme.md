@@ -18,3 +18,10 @@
 >
 
 ![a](https://github.com/johntest04/repo04/blob/main/3.png?raw=true)
+
+
+## paso4
+>borramos la rama local y verificamos que solo queda
+>la rama principal con git branch
+
+![a](https://github.com/johntest04/repo04/blob/main/4.png?raw=true)
