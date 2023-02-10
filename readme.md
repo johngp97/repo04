@@ -1,11 +1,5 @@
-# titulo 1
-###### titulo 6  
-##### **titulo 5**
-##### __titulo 5__
-##### _titulo 5_
-
-
->“¡A mi señal, ira y fuego!🔥” – Máximo Décimo Meridio.
+# titulo 1 
+>“¡A mi señal, ira y  fuego!🔥” 
 
 [Ir a Google](http://www.google.es)
 
