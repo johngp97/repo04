@@ -1,8 +1,20 @@
 # titulo 1 
->“¡A mi señal, ira y  fuego!🔥” 
 
-[Ir a Google](http://www.google.es)
 
-[Visitar Google](https://www.google.es "Texto (cuando ponemos el cursor encima)")
+## paso1
+>Creamos el repositorio desde git bash y luego lo subimos a github
+>
 
-[![a](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](www.google.es)
+![a](https://github.com/johntest04/repo04/blob/main/1.png?raw=true)
+
+## paso2
+>Creamos la "rama2" y la subimos a github
+>
+
+![a](https://github.com/johntest04/repo04/blob/main/2.png?raw=true)
+
+## paso3
+>Creamos el merge y lo subimos
+>
+
+![a](https://github.com/johntest04/repo04/blob/main/3.png?raw=true)
